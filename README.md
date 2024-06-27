@@ -1,1 +1,1 @@
-# wheel-reinventors-principles
+# Wheel Reinventor's Principles
