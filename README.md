@@ -19,4 +19,4 @@ The Wheel Reinventor must also be honest with themself. They must keep in mind w
 
 * Minimize third-party dependencies. Master the platform's built-ins and accumulate your own toolbox over time.
 * Embrace the strengths of DYI. Create what _you_ need and little more. Be wary of abstractions made for fabricated use cases.
-* Avoid magic where possible. Try to stay close to the metal, preferring simple tools over losing touch with the underlying technology.
+* Avoid magic where possible. Try to stay close to the metal, preferring simple tools and not losing touch with the underlying technology.
