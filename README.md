@@ -1,7 +1,5 @@
 # Wheel Reinventor's Principles
 
-## Reasons
-
 The Wheel Reinventor enjoys reinventing wheels. There already exist many wheels, even some very popular ones. So why does the Wheel Reinventor keep making new ones?
 
 * **Learning:** By reinventing the wheel, the Wheel Reinventor learns much. Not only about how to create new wheels, but also about how existing wheels work.
