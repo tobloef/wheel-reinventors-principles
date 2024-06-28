@@ -23,3 +23,12 @@ Likewise, the Wheel Reinventor must be honest with themself. They must keep in m
 * Embrace the strengths of DYI. Create what _you_ need and little more. Be wary of abstractions made for fabricated use cases.
 * Avoid magic where possible. Try to stay close to the metal, preferring simple tools and not losing touch with the underlying technology.
 * Share your work. Open-source your code where possible. Write about your approach and let others learn from your experiences.
+
+## Projects
+
+Some of my projects that explicitly follow these principles are listed below:
+
+* [Build Tool](https://github.com/tobloef/build-tool): Modular build system for web projects, written in Node.js
+* [Renderer](https://github.com/tobloef/renderer): WebGPU-based 2D and 3D renderer for the browser
+* [Tile Editor](https://github.com/tobloef/tile-editor/): Web app for creating tile-based sprites
+* [Audio Tools](https://github.com/tobloef/audio-tools): Real-time audio library for the browser
