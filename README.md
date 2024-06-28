@@ -1,6 +1,6 @@
 # Wheel Reinventor's Principles
 
-The Wheel Reinventor enjoys reinventing wheels. There already exist many wheels, even some very popular ones. So why does the Wheel Reinventor keep making new ones?
+The Wheel Reinventor enjoys reinventing wheels. A lot of wheels have been invented before, some are even very popular. So why does the Wheel Reinventor keep making new ones?
 
 * **Learning:** By reinventing the wheel, the Wheel Reinventor learns much. Not only about how to create new wheels, but also about how existing wheels work.
 * **Specificity:** No one wheel fits all. When creating their own wheel, the Wheel Reinventor can tailor it for their exact use case, whether that's a wheelbarrow or a monster truck.
@@ -13,11 +13,11 @@ The Wheel Reinventor must however be careful. Reinventing wheels can be time-con
 
 The Wheel Reinventor must therefore first and foremost be deliberate. They must consider whether it is appropriate for a project to be a reinvention, especially when accountable to others. They must also consider the scope of what is being reinvented (and crucially, what is not), as to not get needlessly sidetracked.
 
-The Wheel Reinventor must also be honest with themself. They must keep in mind why they're reinventing the wheel and not lose sight of that. A wheel reinvented for learning looks different than a wheel reinvented for innovation.
+Likewise, the Wheel Reinventor must be honest with themself. They must keep in mind why they're reinventing a particular wheel and not lose sight of that. A wheel reinvented for learning looks different than a wheel reinvented for innovation.
 
 ## Technical Principles
 
 * Minimize third-party dependencies. Master the platform's built-ins and accumulate your own toolbox over time.
 * Embrace the strengths of DYI. Create what _you_ need and little more. Be wary of abstractions made for fabricated use cases.
 * Avoid magic where possible. Try to stay close to the metal, preferring simple tools and not losing touch with the underlying technology.
-* Share your work. Open-source your code where possible. Write about your approach. Let others learn from your experiences.
+* Share your work. Open-source your code where possible. Write about your approach and let others learn from your experiences.
