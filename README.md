@@ -1,4 +1,6 @@
-# Wheel Reinventor's Principles
+![Wheel Reinventors Principles Banner](https://github.com/tobloef/wheel-reinventors-principles/assets/12204005/9cb04460-3c4c-4828-b225-4c0a7e6b60ab)
+
+## Why reinvent?
 
 The Wheel Reinventor enjoys reinventing wheels. A lot of wheels have been invented before, some are even very popular. So why does the Wheel Reinventor keep making new ones?
 
@@ -7,7 +9,7 @@ The Wheel Reinventor enjoys reinventing wheels. A lot of wheels have been invent
 * **Innovation:** Although popular, some existing wheels are quite bad. While reinventing, the Wheel Reinventor has the opportunity to explore new possibilities in a way that existing solutions cannot.
 * **Enjoyment:** Wheel reinvention does, in truth, not need much of a reason. It can simply be out of love of the craft and the satisfaction of work well done.
 
-## Challenges 
+## Challenges
 
 The Wheel Reinventor must however be careful. Reinventing wheels can be time-consuming and the end product may be inferior to existing solutions. The Wheel Reinventor also tends to fall into infinite rabbit holes. To create a wheel, must they also create the hammer that they need? Must they fell a tree for the hammer's handle? If the Wheel Reinventor begins by planting a forest, they will not be building vehicles any time soon.
 
