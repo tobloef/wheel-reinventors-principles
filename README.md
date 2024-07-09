@@ -2,7 +2,7 @@
 
 ## Why reinvent?
 
-The Wheel Reinventor enjoys reinventing wheels. A lot of wheels have been invented before, some are even very popular. So why does the Wheel Reinventor keep making new ones?
+The Wheel Reinventor enjoys reinventing wheels. A lot of wheels have been invented before, some are even very popular. So why does the Wheel Reinventor make new ones?
 
 * **Learning:** By reinventing the wheel, the Wheel Reinventor learns much. Not only about how to create new wheels, but also about how existing wheels work.
 * **Specificity:** No one wheel fits all. When creating their own wheel, the Wheel Reinventor can tailor it for their exact use case, whether that's a wheelbarrow or a monster truck.
