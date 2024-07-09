@@ -29,6 +29,4 @@ Likewise, the Wheel Reinventor must be honest with themself. They must keep in m
 Some of my projects that explicitly follow these principles are listed below:
 
 * [Build Tool](https://github.com/tobloef/build-tool): Modular build system for web projects, written in Node.js
-* [Renderer](https://github.com/tobloef/renderer): WebGPU-based 2D and 3D renderer for the browser
-* [Tile Editor](https://github.com/tobloef/tile-editor/): Web app for creating tile-based sprites
-* [Audio Tools](https://github.com/tobloef/audio-tools): Real-time audio library for the browser
+* [Putpix 3D](https://github.com/tobloef/putpix-3d-ts): 3D software rasterizer, written in TypeScript
