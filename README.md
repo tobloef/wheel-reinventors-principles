@@ -13,7 +13,7 @@ The Wheel Reinventor enjoys reinventing wheels. A lot of wheels have been invent
 
 The Wheel Reinventor must however be careful. Reinventing wheels can be time-consuming and the end product may be inferior to existing solutions. The Wheel Reinventor also tends to fall into infinite rabbit holes. To create a wheel, must they also create the hammer that they need? Must they fell a tree for the hammer's handle? If the Wheel Reinventor begins by planting a forest, they will not be building vehicles any time soon.
 
-The Wheel Reinventor must therefore first and foremost be deliberate. They must consider whether it is appropriate for a project to be a reinvention, especially when accountable to others. They must also consider the scope of what is being reinvented (and crucially, what is not), as to not get needlessly sidetracked.
+The Wheel Reinventor must therefore first and foremost be deliberate. They must consider whether it is appropriate for a given wheel to be reinvented, especially when accountable to others. They must also consider the scope of what is being reinvented (and crucially, what is not), as to not get needlessly sidetracked.
 
 Likewise, the Wheel Reinventor must be honest with themself. They must keep in mind why they're reinventing a particular wheel and not lose sight of that. A wheel reinvented for learning looks different than a wheel reinvented for innovation.
 
